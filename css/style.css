@@ -1,0 +1,121 @@
+body {
+  margin: 0px auto;
+  text-align: center;
+  background: #33CCCC;
+}
+
+#h1 {
+//  margin-bottom: -2px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1vh;
+  border-top-left-radius: 5vh;
+  border: 1vh solid white;
+  background: #B2D0FE;
+  padding-bottom: 7vh; 
+  width: 95.125vw;
+  height: 3.5vh;
+  color: white;
+  font: bold 3.75vw calibri, sans-serif;
+}
+
+#canvasFrame {
+  margin-top: -4vh;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1vh;
+  width: 95.125vw;
+  
+  border: 1vh solid white;
+}
+
+/*
+#myCanvas {
+  margin-top: -4vh;
+  border-radius: 1vh;
+  width: 95.125vw;
+  height: 70vh;
+  border: 1vh solid white;
+}
+*/
+
+#form {
+  margin-top: 1.5vh;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1vh;
+  border-bottom-right-radius: 5vh;
+  border: 1vh solid white;
+  background: #B2D0FE;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  width: 95.25vw;
+  color: white;
+  font: bold 2vw calibri, sans-serif;
+}
+
+#button-top {
+  padding: 1vh; 
+  border-radius: 1vh;
+  border: 0.5vh solid white;
+  background: #33CCCC;
+  color: white;
+  font: bold 1.5vw calibri, sans-serif;
+}
+
+#box {
+  border-radius: 1vh;
+  border: 0.5vh solid white;
+  background: #33CCCC;
+  padding: 1vh;
+  color: white;
+  font: bold 1.5vw calibri, sans-serif;
+}
+
+#xpos {
+  border-radius: 1vh;
+  border: 0.5vh solid white;
+  background: #33CCCC;
+  padding: 1vh;
+  color: white;
+  font: bold 1.5vw calibri, sans-serif;
+}
+
+#ypos {
+  border-radius: 1vh;
+  border: 0.5vh solid white;
+  background: #33CCCC;
+  padding: 1vh;
+  color: white;
+  font: bold 1.5vw calibri, sans-serif;
+}
+
+table {
+  border-radius: 1vh;
+  border-collapse: collapse;
+/*  border-radius: 1vh;*/
+  margin-top: 1.5vh;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1vh;
+  padding-bottom: 1vh;
+  width: 92vw;
+  color: black;
+  font: bold 1.5vw calibri, sans-serif;
+}
+
+td {
+/*  border-collapse: inherit;*/
+  border: 0.5vh solid white;
+  text-align: center;
+}
+
+#zipCol {color: darkviolet;}
+#cityCol {color: darkblue;}
+#stateCol {color: darkblue;}
+#latCol {color: darkgreen;}
+#lonCol {color: darkgreen;}
+#timeCol {color: darkred;}
+#distCol {color: darkred;}
+
+
